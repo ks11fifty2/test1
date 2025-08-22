@@ -1,3 +1,3 @@
 version=2.1
 downloadUrl=https://github.com/ks11fifty2/test1/releases/download/v2.1/FinhaatCodeGen-0.0.1-SNAPSHOT.jar
-changelog=Fixed bug in codegen|Improved UI responsiveness|Added support for changelog preview
+changelog=FWK Updater|Admin Mode
