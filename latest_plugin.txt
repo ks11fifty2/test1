@@ -1,2 +1,2 @@
 version=1.6
-downloadUrl=https://drive.google.com/file/d/1sgwCw6ur9Lsw1IwqsGdLDypXzwzsc9L_/view?usp=sharing
+downloadUrl=FinhaatCodeGen-0.0.1-SNAPSHOT.jar
