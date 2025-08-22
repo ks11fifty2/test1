@@ -1,2 +1,2 @@
-version=1.6
-downloadUrl=https://github.com/ks11fifty2/test1/releases/download/v1.6/FinhaatCodeGen-0.0.1-SNAPSHOT.jar
+version=1.7
+downloadUrl=https://github.com/ks11fifty2/test1/releases/download/v1.7/FinhaatCodeGen-0.0.1-SNAPSHOT.jar
