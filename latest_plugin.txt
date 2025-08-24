@@ -1,4 +1,4 @@
-codegen_version=2.2
+codegen_version=2.3
 codegen_url=https://github.com/ks11fifty2/test1/releases/download/v2.2/FinhaatCodeGen-2.2.jar
 fwk_version=7.7
 fwk_url=https://github.com/ks11fifty2/test1/releases/download/v2.1/FINHAAT_FWK_JARS_7.7.zip
